@@ -1,0 +1,27 @@
+#info-box{
+    border: 1px solid blue;
+    margin: 2% 30% 2% 30%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #888888;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+#info-box:hover{
+    border: 1px solid blue;
+    margin: 2% 30% 2% 30%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+img{
+    width: 15%;
+    height: 10%;
+    margin: 10px 15px 10px 15px;
+}
+
+p{
+    text-align: start;
+    margin-left: 20px;
+}
